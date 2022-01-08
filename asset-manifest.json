@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mimessay-internshipchallenge/static/css/main.3b58a1d1.css",
+    "main.js": "/mimessay-internshipchallenge/static/js/main.35884ab6.js",
+    "static/js/787.ef1f591c.chunk.js": "/mimessay-internshipchallenge/static/js/787.ef1f591c.chunk.js",
+    "index.html": "/mimessay-internshipchallenge/index.html",
+    "main.3b58a1d1.css.map": "/mimessay-internshipchallenge/static/css/main.3b58a1d1.css.map",
+    "main.35884ab6.js.map": "/mimessay-internshipchallenge/static/js/main.35884ab6.js.map",
+    "787.ef1f591c.chunk.js.map": "/mimessay-internshipchallenge/static/js/787.ef1f591c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b58a1d1.css",
+    "static/js/main.35884ab6.js"
+  ]
+}
